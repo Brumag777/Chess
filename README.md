@@ -22,7 +22,7 @@ Para correr o jogo, utiliza o seguinte comando na terminal (dentro da pasta do e
 ./Xadrez
 ```
 
-# 🇬🇧 **English**
+# US **English**
 
 ## ♟️ Terminal Chess
 
