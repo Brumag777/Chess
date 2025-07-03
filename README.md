@@ -1,3 +1,5 @@
+🇵🇹 **Português**
+
 # ♟️ Xadrez Terminal
 
 **Xadrez Terminal** é um jogo de xadrez jogado diretamente no **terminal**, desenvolvido em **linguagem C**.
@@ -15,6 +17,30 @@ Também existe um modo de jogo especial, o modo **explosivo**, no qual sempre qu
 ## ▶️ Como jogar
 
 Para correr o jogo, utiliza o seguinte comando na terminal (dentro da pasta do executável):
+
+```bash
+./Xadrez
+```
+
+🇬🇧 **English**
+
+# ♟️ Terminal Chess
+
+**Terminal Chess** is a chess game played directly in the **terminal**, developed in **C language**.
+
+---
+
+## 🧩 Description
+
+This project consists of a traditional chess game for **two players**.  
+The game was designed to be played in the terminal, with a simple interface that displays the board and allows players to make moves.  
+There is also a special game mode called **explosive**, where whenever a piece is captured, all surrounding pieces explode (are removed), except for the kings.
+
+---
+
+## ▶️ How to play
+
+To run the game, use the following command in the terminal (inside the executable folder):
 
 ```bash
 ./Xadrez
