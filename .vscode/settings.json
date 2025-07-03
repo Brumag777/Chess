@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "xadrez.h": "c",
+        "stdio.h": "c"
+    }
+}
