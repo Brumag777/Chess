@@ -1,4 +1,4 @@
-# US **Português**
+# PT **Português**
 
 ## ♟️ Xadrez Terminal
 
