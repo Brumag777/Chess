@@ -44,3 +44,9 @@ To run the game, use the following command in the terminal (inside the executabl
 
 ```bash
 ./Xadrez
+```
+
+# Imagens / Images
+
+![image](https://github.com/user-attachments/assets/d251a0d6-9318-48d3-b2ff-6a2bc376d2fa)
+![image](https://github.com/user-attachments/assets/32e57d41-0648-4102-9097-1991f2ad4d56)
